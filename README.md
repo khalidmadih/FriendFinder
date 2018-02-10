@@ -13,7 +13,7 @@ To run the site locally and interact with only your own and the example data,
  - Run `node server.js`
  - Go to `localhost:3000` in your web browser.
 
-# Technologies Used
+## Technologies Used
 The following technologies has been used for this app
 - HTML
 - CSS

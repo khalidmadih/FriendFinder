@@ -6,7 +6,7 @@ var path = require('path');
 // Adding express.js config:
 
 var app = express(); // Tells node that we are creating an "express" server
-var PORT = process.env.PORT || 3000; // Sets an initial port. We'll use this later in our listener
+var PORT = process.env.PORT || 7000; // Sets an initial port. We'll use this later in our listener
 
 // Adding BodyParser to make it easy for our server to interpret data sent to it.
 app.use(bodyParser.json());

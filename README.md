@@ -3,7 +3,7 @@ Full Stack Friend Finder Application with Node.js &amp; Express.js
 
 The Friend Finder application is basically a dating app, but for making new buddies. This full-stack site will take in users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-<a href="#">The Finished app can be viewed on on Heroku.</a>
+<a href="https://calm-anchorage-22023.herokuapp.com/">The Finished app can be viewed on on Heroku.</a>
 
 ## Instructions
 To run the site locally and interact with only your own and the example data,
